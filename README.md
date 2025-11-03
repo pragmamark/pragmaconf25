@@ -9,7 +9,7 @@ https://pragmaconference.com￼
 2. **From PoC to Product** — Zamzam Farzamipooya  
 3. **Alternative Marketplaces on iOS: Integration, Innovation, & Insight** — Serhii Popov  
 4. **Prepare your iOS app for Liquid Glass Design** — Kosala Jayasekara  
-5. **AI from Scratch: Let’s Build and Train a Perceptron in Pure Swift** — Johannes Fahrenkrug  
+5. [**AI from Scratch: Let’s Build and Train a Perceptron in Pure Swift** — Johannes Fahrenkrug](files/pragmaconf-2025-perceptron.pdf)
 6. [**Joys and Challenges of a Sightless Coder** — Arkadiusz Świętnicki](https://github.com/Nuno69/Pragma2025)  
 7. **Building Trust: Using mTLS for Secure Baby Monitor Connections** — Aline Borges  
 8. **One Codebase to Rule Them All** — Francesco Pretelli  
