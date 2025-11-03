@@ -5,7 +5,7 @@ https://pragmaconference.com￼
 
 ## *Day 1* – 30th October 2025
 
-1. **The Attribute Graph: SwiftUI’s Invisible Hand** — Chris Eidhof  
+1. [**The Attribute Graph: SwiftUI’s Invisible Hand**](https://github.com/chriseidhof/pragma25) — Chris Eidhof  
 2. **From PoC to Product** — Zamzam Farzamipooya  
 3. **Alternative Marketplaces on iOS: Integration, Innovation, & Insight** — Serhii Popov  
 4. **Prepare your iOS app for Liquid Glass Design** — Kosala Jayasekara  
