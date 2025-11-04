@@ -25,7 +25,7 @@ https://pragmaconference.com￼
 3. **Creative Coding – The Pursuit of Unexpected Beauty** — Tiago Gomes Pereira  
 4. **A No-Code Guide to the TextKit 2 Architecture** — Max Seelemann  
 5. **Transit Lines & Touchpoints: An Analogy for the Device Ecosystem** — Caitlin Steele
-6. **Defence Against the Analytics Regressions** — Oleksii Kirizii  
+6. [**Defence Against the Analytics Regressions** — Oleksii Kirizii](files/defence_against_analytics_regressions.pdf)  
 7. **Building on Foundation Model** — Daniel Steinberg  
 8. **Tuning Your App Using Xcode’s Instruments** — Pol Piella Abadia  
 9. **Who Let the App Intents Out?** — Claire Sivadier  
