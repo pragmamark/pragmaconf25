@@ -13,7 +13,7 @@ https://pragmaconference.com￼
 6. [**Joys and Challenges of a Sightless Coder** — Arkadiusz Świętnicki](https://github.com/Nuno69/Pragma2025)  
 7. **Building Trust: Using mTLS for Secure Baby Monitor Connections** — Aline Borges  
 8. **One Codebase to Rule Them All** — Francesco Pretelli  
-9. **The Sacred Secret Behind Our App’s Speed** — Matteo Rattotti & Konstantin Erokhin  
+9. **[The Sacred Secret Behind Our App’s Speed](files/the-sacred-secret-behind-our-apps-speed.pdf)** — Matteo Rattotti & Konstantin Erokhin  
 10. **You Deserve a Good Manager: How to Interview Your Next Employer** — Jeff Watkins  
 
 ---
