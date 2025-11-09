@@ -28,5 +28,5 @@ https://pragmaconference.com￼
 6. [**Defence Against the Analytics Regressions** — Oleksii Kirizii](files/defence_against_analytics_regressions.pdf)  
 7. **Building on Foundation Model** — Daniel Steinberg  
 8. **Tuning Your App Using Xcode’s Instruments** — Pol Piella Abadia  
-9. **Who Let the App Intents Out?** — Claire Sivadier  
+9. [**Who Let the App Intents Out?** — Claire Sivadier](files/who_let_the_app_intents_out.pdf) 
 10. **You Can Just Do Things: How AI Is Transforming Software Development** — Peter Steinberger  
