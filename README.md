@@ -21,7 +21,7 @@ https://pragmaconference.com￼
 ## *Day 2* – 31st October 2025
 
 1. **From Camera to Validation: Building Real-Time Face Detection** — Ekaterina Volkova  
-2. **Swift 6.2 is here — It’s time to migrate to Strict Concurrency** — Antoine van der Lee  
+2. [**Swift 6.2 is here — It’s time to migrate to Strict Concurrency** — Antoine van der Lee](https://courses.avanderlee.com/l/digital_download/936364/approachable-concurrency-slides)
 3. **Creative Coding – The Pursuit of Unexpected Beauty** — Tiago Gomes Pereira  
 4. **A No-Code Guide to the TextKit 2 Architecture** — Max Seelemann  
 5. **Transit Lines & Touchpoints: An Analogy for the Device Ecosystem** — Caitlin Steele
